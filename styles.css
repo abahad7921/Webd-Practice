@@ -20,7 +20,7 @@ body {
 }
 
 .top-nav {
-    background-color: green;
+    background-color:#10B981;
     color: white;
     padding: 1rem;
     border-bottom-left-radius: 1rem;
@@ -29,6 +29,11 @@ body {
 .link {
     text-decoration: none;
     color: white;
+}
+
+.link-footer {
+    text-decoration: none;
+    color: black;
 }
 
 li a:hover {
@@ -57,4 +62,10 @@ li a:hover {
     max-width: 600px;
     margin: auto;
     padding: 2rem 2rem;
+}
+
+footer{
+    background-color: #6EE7B7;
+    border-bottom-left-radius: 1rem;
+    padding: 0.5rem;
 }
